@@ -1,6 +1,6 @@
 # Exploring Entropy Regularization in Soft Actor-Critic for WumpusWorld Navigation
 
-**Author:** [Your Name]  
+**Authors:** Ana Lopez, Mauricio Leal, Yueh-Cheng Lin 
 **Course:** Reinforcement Learning  
 **Date:** November 2, 2025
 
